@@ -18,6 +18,7 @@ Herbicide-free automated weed management
 Robust outdoor-ready electronics with custom power boards
 
 🧠 System Workflow
+
 1️⃣ Image Acquisition
 
 A high-resolution camera captures live images of plants as the robot moves through crop rows.
@@ -55,6 +56,7 @@ Closed-loop alignment to maintain robot path
 Reliable operation in harsh outdoor environments
 
 🧩 High-Level System Architecture
+
 Camera ──► Jetson NX ──► CNN (YOLOv11/12)
                      └─► Pixel Coordinates
 LiDAR ────────────────► Distance Data
