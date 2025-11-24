@@ -1,0 +1,2 @@
+# AI-Driven-Automated-Weed-Detection-Removal-System-using-CNN-
+This project presents an AI-powered embedded robotic system that automatically detects and removes weeds from agricultural fields using Convolutional Neural Networks (CNN), sensor fusion, and precision actuation. The system is designed to eliminate herbicide usage, protect crops, and automate weed management with high accuracy in real time.
